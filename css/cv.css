@@ -1,0 +1,206 @@
+
+	header {
+		padding: 0.1%;
+		}
+		
+	header h1{
+		font-size: 2em;
+		text-align: center;	
+		color: white;
+		}	
+		
+	footer{
+		padding:1%;	
+		margin: 3%  0% 0% 0%; 	
+			
+		}
+		
+	footer p
+		{
+		padding: 1%;
+		text-align: center;		
+		font-size: 1em;
+		color: white;
+			
+		}
+		
+	aside
+		{
+		padding:0.5% 1%;
+		float: right;
+		width: 20%;
+		background-color: #C0C0C0;
+		font-size: 0.7em;
+		}
+		
+	nav {
+		
+		padding:1% 2%;
+		font-size: 0.7em;
+		color: white;
+		}
+		
+		 
+	body {
+		font-family:arial, sans-serif;
+		}
+		 
+	section {
+		background-color: #A9A9A9;
+		padding: 1%;
+		margin: 1%  25% 5% 2%;
+		 }
+		 
+	p{
+		margin: 0.5%  0.1% 0% 3%; 
+		}
+	table
+		{
+		margin: 1.5%  3% 1.5% 5%; 
+		border-collapse: collapse;
+		
+		}
+	td
+		{
+		border-right: 1px solid gray;
+		padding: 5px;
+		
+		}
+		th {
+			border-right: 1px solid gray;
+		border-bottom: 1px solid gray;	
+		}
+		
+		 
+	.text{
+		font-size: 2em;
+		margin: 1%  25% 5% 9%; 
+		 }
+	.coordonnées{
+
+		font-size: 1em;
+		position: relative;
+		top: 1%; left: 1%;
+		font-weight: normal;
+		font-style: italic;
+		 }
+		 
+		 .date{
+			 font-weight: bold;
+			 color: #3F3F3F;
+		 }
+		 
+	#images {
+
+		width: 150px;
+		height: 150px;
+		padding: 0%;
+		margin: 0%;
+		float: right;
+		}
+
+    .status {
+		
+		font-weight: bold;
+		text-align: right;
+		top:29%;
+		width:94.4%;
+
+}
+	.skype {
+		padding: 0.5%;
+		margin: 2%;
+		text-align: right;
+		position:absolute;
+		top:50%;
+		width:62%;	
+		font-style: italic;
+}
+	.linkdin {
+		padding: 0.5%;
+		margin: 2%;
+		text-align: right;
+		position:absolute;
+		top:53%;
+		width:62%;	
+		font-style: italic;
+		}
+	.twitter {
+		padding: 0.5%;
+		margin: 2%;
+		text-align: right;
+		position:absolute;
+		top:56%;
+		width:62%;	
+		font-style: italic;
+		}
+		
+		 
+	.formationsright{
+		font-size: 1em;
+		margin: 1%  2% 1% 3%; 
+		text-align: right;
+		position:absolute;
+		top:65%;
+		width:62%
+		 } 
+	.langue{
+		font-size: 1.2em;
+		margin: 1%  2% 1% 3%; 
+		text-align: right;
+		position:absolute;
+		top:72%;
+		width:62%
+		 }
+	.langueang{
+		font-size: 1.2em;
+		margin: 1%  2% 1% 3%; 
+		text-align: right;
+		position:absolute;
+		top:74%;
+		width:62%
+		} 
+		 
+	.pro{
+		margin: 0.4%  0.1% 0% 3%; 
+		font-weight: bold;
+		font-size: 1.1em;	
+		}
+	.loisirs{
+		margin: 0.5%  0.1% 0% 3%; 
+		list-style-type: decimal;
+		font-style: italic;
+		}
+		
+		#loisirs{
+		margin: 0.5%  0.1% 0% 3%; 
+		display:inline;
+		font-style: italic;
+		}
+		
+	.lieu {
+		font-size: 0.8em;	
+		}
+		
+	.fond_bleu{
+		background-color: #2874a6;
+		color: white;
+		}
+
+		.police
+		{
+			font-family:Tw cen MT, sans-serif;
+			font-style: italic;
+		}
+		.gris{
+		background-color: silver;
+
+		}
+		nav a {
+			color: white;
+			text-decoration: none;
+		}
+		aside a { 
+		text-decoration: none;
+		color: black;
+		}
